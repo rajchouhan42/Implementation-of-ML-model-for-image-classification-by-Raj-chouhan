@@ -5,6 +5,7 @@
 # mentor name is - Abdul Aziz Md
 
 ### How to run the project:
+
 1.first open the folder/ download the zip file the unzip it then open the folder
 2.open the new_app
 3.check the all of this is available or not streamlit tensorflow pillow numpy
